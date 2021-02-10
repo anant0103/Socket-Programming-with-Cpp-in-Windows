@@ -31,6 +31,7 @@ To run this project, Compile file and run it:
 >> 0_server
 >> 0_client localhost
 ```
+![App image](https://github.com/anant0103/Socket-Programming-with-C-in-Windows/blob/main/image0.png)
 
 ## 2. Chat Application
 #### Send messages between Client and Server. 
@@ -40,6 +41,7 @@ To run this project, Compile file and run it:
 >> 1_server
 >> 1_client localhost
 ```
+![App image](https://github.com/anant0103/Socket-Programming-with-C-in-Windows/blob/main/image1.png)
 
 ## 3. File Transfer Program
 #### Client program send File to Server program. 
@@ -49,6 +51,7 @@ To run this project, Compile file and run it:
 >> 2_server
 >> 2_client localhost
 ```
+![App image](https://github.com/anant0103/Socket-Programming-with-C-in-Windows/blob/main/image2.png)
 
 ## 4. CRC Error Checking Program
 #### Client program send data to Server program and server check its CRC and checking Error. 
@@ -58,7 +61,5 @@ To run this project, Compile file and run it:
 >> 3_server
 >> 3_client localhost
 ```
-
+![App image](https://github.com/anant0103/Socket-Programming-with-C-in-Windows/blob/main/image3.png)
  
-
-![App image](https://github.com/anant0103/Django_Poll_Application/blob/master/image11.png)
