@@ -8,7 +8,7 @@
 
 ## General info
 This repository include four type of Socket programs 
-1. [Data Transfer Program](#data-transfer-program)
+1. [Data Transfer Program](#1.-data-transfer-program)
 2. [Chat Application](#chat-application)
 3. [File Transfer Program](#file-transfer-program)
 4. [CRC Error Checking Program](#crc-error-checking-program)
