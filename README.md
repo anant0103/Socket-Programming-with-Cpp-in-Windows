@@ -8,10 +8,10 @@
 
 ## General info
 This repository include four type of Socket programs 
-1. [General info](#Data Transfer)
-2. [Technologies](#Chat Application)
-3. [Setup](#File Transfer)
-4. [General info](#CRC Error Checking)
+1. [General info](#data-transfer-program)
+2. [Technologies](#chat-application)
+3. [Setup](#file-transfer-program)
+4. [General info](#crc-error-checking-program)
 
 ## Libraries
 To run this Program you must have following C++ libraries:
@@ -33,7 +33,7 @@ To run this project, Compile file and run it:
 ```
 
 ## 2. Chat Application
-#### Client program send Bytes of data to Server program. 
+#### Send messages between Client and Server. 
 To run this project, Compile file and run it:
 
 ```
@@ -42,7 +42,7 @@ To run this project, Compile file and run it:
 ```
 
 ## 3. File Transfer Program
-#### Client program send Bytes of data to Server program. 
+#### Client program send File to Server program. 
 To run this project, Compile file and run it:
 
 ```
@@ -51,7 +51,7 @@ To run this project, Compile file and run it:
 ```
 
 ## 4. CRC Error Checking Program
-#### Client program send Bytes of data to Server program. 
+#### Client program send data to Server program and server check its CRC and checking Error. 
 To run this project, Compile file and run it:
 
 ```
