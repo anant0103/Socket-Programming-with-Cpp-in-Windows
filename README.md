@@ -5,7 +5,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Libraries](#libraries)
-* [Setup](#setup)
 
 ## General info
 This repository include four type of Socket programs 
@@ -25,16 +24,41 @@ To run this Program you must have following C++ libraries:
 * AdvApi32.lib
 
 ## 1. Data Transfer Program
-#### Client program send Bytes of data to Server  
-
-
-	
-## Setup
-To run this project, install it and run following command:
+#### Client program send Bytes of data to Server program. 
+To run this project, Compile file and run it:
 
 ```
->> python manage.py runserver
+>> 0_server
+>> 0_client localhost
 ```
+
+## 2. Chat Application
+#### Client program send Bytes of data to Server program. 
+To run this project, Compile file and run it:
+
+```
+>> 1_server
+>> 1_client localhost
+```
+
+## 3. File Transfer Program
+#### Client program send Bytes of data to Server program. 
+To run this project, Compile file and run it:
+
+```
+>> 2_server
+>> 2_client localhost
+```
+
+## 4. CRC Error Checking Program
+#### Client program send Bytes of data to Server program. 
+To run this project, Compile file and run it:
+
+```
+>> 3_server
+>> 3_client localhost
+```
+
  
 
 ![App image](https://github.com/anant0103/Django_Poll_Application/blob/master/image11.png)
