@@ -8,10 +8,10 @@
 
 ## General info
 This repository include four type of Socket programs 
-1. [General info](#data-transfer-program)
-2. [Technologies](#chat-application)
-3. [Setup](#file-transfer-program)
-4. [General info](#crc-error-checking-program)
+1. [Data Transfer Program](#data-transfer-program)
+2. [Chat Application](#chat-application)
+3. [File Transfer Program](#file-transfer-program)
+4. [CRC Error Checking Program](#crc-error-checking-program)
 
 ## Libraries
 To run this Program you must have following C++ libraries:
