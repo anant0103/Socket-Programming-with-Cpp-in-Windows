@@ -9,10 +9,10 @@
 
 ## General info
 This repository include four type of Socket programs 
-* [General info](#Data Transfer)
-* [Technologies](#Chat Application)
-* [Setup](#File Transfer)
-* [General info](#CRC Error Checking)
+1. [General info](#Data Transfer)
+2. [Technologies](#Chat Application)
+3. [Setup](#File Transfer)
+4. [General info](#CRC Error Checking)
 
 ## Libraries
 To run this Program you must have following C++ libraries:
@@ -23,6 +23,11 @@ To run this Program you must have following C++ libraries:
 * Ws2_32.lib
 * Mswsock.lib
 * AdvApi32.lib
+
+## 1. Data Transfer Program
+#### Client program send Bytes of data to Server  
+
+
 	
 ## Setup
 To run this project, install it and run following command:
